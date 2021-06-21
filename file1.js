@@ -117,4 +117,4 @@ itl_jso += '</div>';
 itl_jso += '</center>';
 itl_jso += '</div>';
 itl_jso += '</div>';
-itl_jso += '</div>';
+itl_jso += '</div><div></div>';
